@@ -1,0 +1,25 @@
+Thermal fit to /lustre/nyx/cbm/users/vvovchen/programs/HRG/CSM-jupyter/Thermal-FIST/input/../../input/data/PbPb/ALICE-PbPb2.76TeV-60-80-all-symmetrized.dat within ThermalModelCanonical
+
+Performed on 08-09-2019 at 03:03:08
+
+chi2/dof = 6.948450/5 = 1.389690
+
+Data description accuracy = (11.71 +- 8.73) %
+
+Extracted parameters:
+         T[MeV] =      164.736978 +- 3.297119       
+          R[fm] =        3.245866 +- 0.158907       	         V[fm3] =      143.245244 +- 21.038482      
+         Rc[fm] =        3.245866 (FIXED)	        Vc[fm3] =      143.245244 (FIXED)
+         gammaq =        1.000000 (FIXED)
+         gammaS =        0.870184 +- 0.038469       
+
+
+Yields:
+                      pi+ Experiment:       27.025000 +- 1.550000        Model: 25.184419       Std.dev.: -1.187471       
+                       K+ Experiment:        3.700000 +- 0.300000        Model: 4.030286        Std.dev.: 1.100955        
+                      K0S Experiment:        3.900000 +- 0.200000        Model: 3.930142        Std.dev.: 0.150708        
+                phi(1020) Experiment:        0.510000 +- 0.070000        Model: 0.515166        Std.dev.: 0.073798        
+                        p Experiment:        1.432500 +- 0.142500        Model: 1.630001        Std.dev.: 1.385971        
+                   Lambda Experiment:        1.000000 +- 0.100000        Model: 0.849396        Std.dev.: -1.506036       
+                     Ksi- Experiment:        0.120000 +- 0.010000        Model: 0.117214        Std.dev.: -0.278599       
+                    Omega Experiment:        0.016000 +- 0.003000        Model: 0.016532        Std.dev.: 0.177267        

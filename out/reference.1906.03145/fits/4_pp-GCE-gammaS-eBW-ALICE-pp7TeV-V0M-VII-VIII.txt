@@ -1,0 +1,27 @@
+Thermal fit to /lustre/nyx/cbm/users/vvovchen/programs/HRG/CSM-jupyter/Thermal-FIST/input/../../input/data/pp/ALICE-pp7TeV-V0M-VII-VIII.dat within ThermalModelIdeal
+
+Performed on 09-09-2019 at 06:39:18
+
+chi2/dof = 25.3757/5 = 5.07514
+
+Data description accuracy = (21.61 +- 8.52) %
+
+Extracted parameters:
+         T[MeV] =         160.665 +- 2.47824        
+          R[fm] =         1.67797 +- 0.0636951      	         V[fm3] =         19.7898 +- 2.25364        
+       muB[MeV] =               0 (FIXED)
+       muQ[MeV] =               0 (FIXED)
+       muS[MeV] =               0 (FIXED)
+         gammaq =               1 (FIXED)
+         gammaS =        0.721784 +- 0.0245092      
+
+
+Yields:
+                      pi+ Experiment:          3.0125 +- 0.139004        Model: 2.92851         Std.dev.: -0.604236       
+                       K+ Experiment:          0.3807 +- 0.0232519       Model: 0.399914        Std.dev.: 0.826349        
+                      K0S Experiment:          0.3815 +- 0.0192688       Model: 0.391429        Std.dev.: 0.515308        
+                phi(1020) Experiment:         0.04583 +- 0.00479437      Model: 0.0402455       Std.dev.: -1.1648         
+                        p Experiment:         0.16755 +- 0.0113018       Model: 0.188055        Std.dev.: 1.81432         
+                   Lambda Experiment:        0.106455 +- 0.00723581      Model: 0.0805849       Std.dev.: -3.57529        
+                     Ksi- Experiment:       0.0109365 +- 0.000945836     Model: 0.00971526      Std.dev.: -1.29117        
+                    Omega Experiment:       0.0009313 +- 0.00013242      Model: 0.00122633      Std.dev.: 2.22797         

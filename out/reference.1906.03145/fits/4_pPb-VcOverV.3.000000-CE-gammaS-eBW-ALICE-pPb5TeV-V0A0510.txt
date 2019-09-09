@@ -1,0 +1,25 @@
+Thermal fit to /lustre/nyx/cbm/users/vvovchen/programs/HRG/CSM-jupyter/Thermal-FIST/input/../../input/data/pPb/ALICE-pPb5TeV-V0A0510.dat within ThermalModelCanonical
+
+Performed on 08-09-2019 at 01:44:28
+
+chi2/dof = 17.091732/5 = 3.418346
+
+Data description accuracy = (12.60 +- 7.01) %
+
+Extracted parameters:
+         T[MeV] =      167.388522 +- 2.957482       
+          R[fm] =        2.638844 +- 0.120517       	         V[fm3] =       76.971470 +- 10.545912      
+         Rc[fm] =        3.805872 (FIXED)	        Vc[fm3] =      230.914411 (FIXED)
+         gammaq =        1.000000 (FIXED)
+         gammaS =        0.868022 +- 0.027942       
+
+
+Yields:
+                      pi+ Experiment:       16.542025 +- 0.793275        Model: 15.175404       Std.dev.: -1.722758       
+                       K+ Experiment:        2.317785 +- 0.183767        Model: 2.443849        Std.dev.: 0.685997        
+                      K0S Experiment:        2.301994 +- 0.129109        Model: 2.383435        Std.dev.: 0.630790        
+                phi(1020) Experiment:        0.288000 +- 0.022226        Model: 0.313386        Std.dev.: 1.142161        
+                        p Experiment:        0.926788 +- 0.064251        Model: 1.051479        Std.dev.: 1.940684        
+                   Lambda Experiment:        0.651754 +- 0.056199        Model: 0.551549        Std.dev.: -1.783045       
+                     Ksi- Experiment:        0.093050 +- 0.006946        Model: 0.078414        Std.dev.: -2.107076       
+                    Omega Experiment:        0.010750 +- 0.001504        Model: 0.011881        Std.dev.: 0.752028        

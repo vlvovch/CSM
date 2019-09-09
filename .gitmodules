@@ -1,0 +1,3 @@
+[submodule "Thermal-FIST"]
+	path = Thermal-FIST
+	url = https://github.com/vlvovch/Thermal-FIST.git
