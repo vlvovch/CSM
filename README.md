@@ -11,6 +11,7 @@ This is achieved through the [xeus-cling](https://github.com/QuantStack/xeus-cli
 
 The routines presented here have so far only been tested on a Linux system.
 
+
 ## Pre-requisites
 
 A Python environment with [Jupyter Notebook](https://jupyter.org/) and [xeus-cling](https://github.com/QuantStack/xeus-cling) installed.
@@ -29,8 +30,14 @@ A Python environment with [Jupyter Notebook](https://jupyter.org/) and [xeus-cli
     This will build the shared libraries in folder `Thermal-FIST/build/lib`.
  3. Run jupyter notebook from the repository root directory, open it in a browser and go to the `index.ipynb` notebook. This notebook contains links to all the routines for obtaining the results published in the above papers. The output files will be written into the folder `out/`.
 
-The reference output files are available in folders [`out/reference.1808.05245`](reference.1808.05245) and [`reference.1906.03145`](reference.1906.03145)
+The reference output files are available in folders [`out/reference.1808.05245`](out/reference.1808.05245) and [`out/reference.1906.03145`](out/reference.1906.03145)
 
+## Running it in the cloud
+
+To run the calculations in the cloud from your web browser, click on the binder
+link:
+
+[![Binder](https://mybinder.org/static/logo.svg)](https://mybinder.org/v2/gh/vlvovch/CSM/master?filepath=index.ipynb)
 
 ## Attribution
 Publications using **Thermal-FIST** shall include a reference to the following paper:
