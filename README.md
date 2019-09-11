@@ -44,6 +44,6 @@ Publications using **Thermal-FIST** shall include a reference to the following p
 
 - V. Vovchenko, H. Stoecker, *Thermal-FIST: A package for heavy-ion collisions and hadronic equation of state*, [Comput. Phys. Commun. **244**, 295 (2019)](https://doi.org/10.1016/j.cpc.2019.06.024), [arXiv:1901.05249 [nucl-th]](https://arxiv.org/abs/1901.05249)
 
-Addtionally, the two CSM papers above should be quoted in works which derive from routines in this repository.
+Additionally, the two CSM papers above should be quoted in works which derive from routines in this repository.
 
 *Copyright (C) 2019 Volodymyr Vovchenko*
