@@ -3,8 +3,8 @@
 ## Description
 
 This repository contains [Thermal-FIST](https://github.com/vlvovch/Thermal-FIST) routines for calculations within the Canonical Statistical Model (CSM) presented in the following papers:
-- V. Vovchenko, B. Dönigus, H. Stoecker, *Multiplicity dependence of light nuclei production at LHC energies in the canonical statistical model*, [Phys. Lett. B **785**, 171 (2018)](https://doi.org/10.1016/j.physletb.2018.08.041), [arXiv:1808.05245 [hep-ph]](https://arxiv.org/abs/1808.05245)
-- V. Vovchenko, B. Dönigus, H. Stoecker, *Canonical statistical model analysis of p-p, p-Pb, and Pb-Pb collisions at the LHC*, [arXiv:1906.03145 [hep-ph]](https://arxiv.org/abs/1906.03145)
+- V. Vovchenko, B. Dönigus, H. Stoecker, *Multiplicity dependence of light nuclei production at LHC energies in the canonical statistical model*, [Phys. Lett. B **785**, 171 (2018)](https://doi.org/10.1016/j.physletb.2018.08.041) [[arXiv:1808.05245 [hep-ph]](https://arxiv.org/abs/1808.05245)]
+- V. Vovchenko, B. Dönigus, H. Stoecker, *Canonical statistical model analysis of p-p, p-Pb, and Pb-Pb collisions at the LHC*, [Phys. Rev. C **100**, 054906 (2019)](https://doi.org/10.1103/PhysRevC.100.054906) [[arXiv:1906.03145 [hep-ph]](https://arxiv.org/abs/1906.03145)]
 
 The calculations are done within interactive Jupyter sessions.
 This is achieved through the [xeus-cling](https://github.com/QuantStack/xeus-cling) Jupyter kernel and a C++ interpreter [cling](https://github.com/root-project/cling).
@@ -42,7 +42,7 @@ link:
 ## Attribution
 Publications using **Thermal-FIST** shall include a reference to the following paper:
 
-- V. Vovchenko, H. Stoecker, *Thermal-FIST: A package for heavy-ion collisions and hadronic equation of state*, [Comput. Phys. Commun. **244**, 295 (2019)](https://doi.org/10.1016/j.cpc.2019.06.024), [arXiv:1901.05249 [nucl-th]](https://arxiv.org/abs/1901.05249)
+- V. Vovchenko, H. Stoecker, *Thermal-FIST: A package for heavy-ion collisions and hadronic equation of state*, [Comput. Phys. Commun. **244**, 295 (2019)](https://doi.org/10.1016/j.cpc.2019.06.024) [[arXiv:1901.05249 [nucl-th]](https://arxiv.org/abs/1901.05249)]
 
 Additionally, the two CSM papers above should be quoted in works which derive from routines in this repository.
 
