@@ -1,2 +1,0 @@
-BMAX = 1	QMAX = 10	SMAX = 5	CMAX = 0
-BMAX = 5	QMAX = 2	SMAX = 3	CMAX = 0
